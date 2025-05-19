@@ -4,6 +4,6 @@ Xiaomi: xxxxxx
 Batot:
 ee3df10f3m7c64d79087bc3d9b648e2639f7fb29ae0847e10c9a02e084a2433b
 
-mine
+mine:
 
 cc253d5eb948b2e87d0d74007b28c34aa1eff0cbec5b24315e094947e4260e34
